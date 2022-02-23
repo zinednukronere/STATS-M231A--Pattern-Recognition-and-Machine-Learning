@@ -1,0 +1,2 @@
+data loader was too slow. Had to change number of workers to 0
+Training on cpu is slow
